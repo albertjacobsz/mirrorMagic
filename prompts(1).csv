@@ -1,0 +1,13 @@
+prompt,subject,complexity,factors,art_style,resolution
+in De Stijl style,,3C1,art_style,De Stijl,
+in Expressionism style,,3C1,art_style,Expressionism,
+in Futurism style,,3C1,art_style,Futurism,
+in Conceptual Art style,,3C1,art_style,Conceptual Art,
+A person in De Stijl style,A person,3C2,subject+art_style,De Stijl,
+A person in Expressionism style,A person,3C2,subject+art_style,Expressionism,
+A person in Futurism style,A person,3C2,subject+art_style,Futurism,
+A person in Conceptual Art style,A person,3C2,subject+art_style,Conceptual Art,
+in De Stijl style In 8k resolution,,3C2,art_style+resolution,De Stijl,In 8k resolution
+in Expressionism style In 8k resolution,,3C2,art_style+resolution,Expressionism,In 8k resolution
+in Futurism style In 8k resolution,,3C2,art_style+resolution,Futurism,In 8k resolution
+in Conceptual Art style In 8k resolution,,3C2,art_style+resolution,Conceptual Art,In 8k resolution

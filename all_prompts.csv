@@ -1,0 +1,90 @@
+prompt,subject,complexity,factors,art_style,resolution
+A person,A person,3C1,subject,,
+A lion,A lion,3C1,subject,,
+A magician,A magician,3C1,subject,,
+An alien,An alien,3C1,subject,,
+in De Stijl style,,3C1,art_style,De Stijl,
+in Expressionism style,,3C1,art_style,Expressionism,
+in Baroque style,,3C1,art_style,Baroque,
+in Futurism style,,3C1,art_style,Futurism,
+in Photorealism style,,3C1,art_style,Photorealism,
+in Conceptual Art style,,3C1,art_style,Conceptual Art,
+in Islamic Art style,,3C1,art_style,Islamic Art,
+in Art Nouveau style,,3C1,art_style,Art Nouveau,
+In 8k resolution,,3C1,resolution,,In 8k resolution
+A person in De Stijl style,A person,3C2,subject+art_style,De Stijl,
+A person in Expressionism style,A person,3C2,subject+art_style,Expressionism,
+A person in Baroque style,A person,3C2,subject+art_style,Baroque,
+A person in Futurism style,A person,3C2,subject+art_style,Futurism,
+A person in Photorealism style,A person,3C2,subject+art_style,Photorealism,
+A person in Conceptual Art style,A person,3C2,subject+art_style,Conceptual Art,
+A person in Islamic Art style,A person,3C2,subject+art_style,Islamic Art,
+A person in Art Nouveau style,A person,3C2,subject+art_style,Art Nouveau,
+A lion in De Stijl style,A lion,3C2,subject+art_style,De Stijl,
+A lion in Expressionism style,A lion,3C2,subject+art_style,Expressionism,
+A lion in Baroque style,A lion,3C2,subject+art_style,Baroque,
+A lion in Futurism style,A lion,3C2,subject+art_style,Futurism,
+A lion in Photorealism style,A lion,3C2,subject+art_style,Photorealism,
+A lion in Conceptual Art style,A lion,3C2,subject+art_style,Conceptual Art,
+A lion in Islamic Art style,A lion,3C2,subject+art_style,Islamic Art,
+A lion in Art Nouveau style,A lion,3C2,subject+art_style,Art Nouveau,
+A magician in De Stijl style,A magician,3C2,subject+art_style,De Stijl,
+A magician in Expressionism style,A magician,3C2,subject+art_style,Expressionism,
+A magician in Baroque style,A magician,3C2,subject+art_style,Baroque,
+A magician in Futurism style,A magician,3C2,subject+art_style,Futurism,
+A magician in Photorealism style,A magician,3C2,subject+art_style,Photorealism,
+A magician in Conceptual Art style,A magician,3C2,subject+art_style,Conceptual Art,
+A magician in Islamic Art style,A magician,3C2,subject+art_style,Islamic Art,
+A magician in Art Nouveau style,A magician,3C2,subject+art_style,Art Nouveau,
+An alien in De Stijl style,An alien,3C2,subject+art_style,De Stijl,
+An alien in Expressionism style,An alien,3C2,subject+art_style,Expressionism,
+An alien in Baroque style,An alien,3C2,subject+art_style,Baroque,
+An alien in Futurism style,An alien,3C2,subject+art_style,Futurism,
+An alien in Photorealism style,An alien,3C2,subject+art_style,Photorealism,
+An alien in Conceptual Art style,An alien,3C2,subject+art_style,Conceptual Art,
+An alien in Islamic Art style,An alien,3C2,subject+art_style,Islamic Art,
+An alien in Art Nouveau style,An alien,3C2,subject+art_style,Art Nouveau,
+A person In 8k resolution,A person,3C2,subject+resolution,,In 8k resolution
+A lion In 8k resolution,A lion,3C2,subject+resolution,,In 8k resolution
+A magician In 8k resolution,A magician,3C2,subject+resolution,,In 8k resolution
+An alien In 8k resolution,An alien,3C2,subject+resolution,,In 8k resolution
+in De Stijl style In 8k resolution,,3C2,art_style+resolution,De Stijl,In 8k resolution
+in Expressionism style In 8k resolution,,3C2,art_style+resolution,Expressionism,In 8k resolution
+in Baroque style In 8k resolution,,3C2,art_style+resolution,Baroque,In 8k resolution
+in Futurism style In 8k resolution,,3C2,art_style+resolution,Futurism,In 8k resolution
+in Photorealism style In 8k resolution,,3C2,art_style+resolution,Photorealism,In 8k resolution
+in Conceptual Art style In 8k resolution,,3C2,art_style+resolution,Conceptual Art,In 8k resolution
+in Islamic Art style In 8k resolution,,3C2,art_style+resolution,Islamic Art,In 8k resolution
+in Art Nouveau style In 8k resolution,,3C2,art_style+resolution,Art Nouveau,In 8k resolution
+A person in De Stijl style In 8k resolution,A person,3C3,subject+art_style+resolution,De Stijl,In 8k resolution
+A person in Expressionism style In 8k resolution,A person,3C3,subject+art_style+resolution,Expressionism,In 8k resolution
+A person in Baroque style In 8k resolution,A person,3C3,subject+art_style+resolution,Baroque,In 8k resolution
+A person in Futurism style In 8k resolution,A person,3C3,subject+art_style+resolution,Futurism,In 8k resolution
+A person in Photorealism style In 8k resolution,A person,3C3,subject+art_style+resolution,Photorealism,In 8k resolution
+A person in Conceptual Art style In 8k resolution,A person,3C3,subject+art_style+resolution,Conceptual Art,In 8k resolution
+A person in Islamic Art style In 8k resolution,A person,3C3,subject+art_style+resolution,Islamic Art,In 8k resolution
+A person in Art Nouveau style In 8k resolution,A person,3C3,subject+art_style+resolution,Art Nouveau,In 8k resolution
+A lion in De Stijl style In 8k resolution,A lion,3C3,subject+art_style+resolution,De Stijl,In 8k resolution
+A lion in Expressionism style In 8k resolution,A lion,3C3,subject+art_style+resolution,Expressionism,In 8k resolution
+A lion in Baroque style In 8k resolution,A lion,3C3,subject+art_style+resolution,Baroque,In 8k resolution
+A lion in Futurism style In 8k resolution,A lion,3C3,subject+art_style+resolution,Futurism,In 8k resolution
+A lion in Photorealism style In 8k resolution,A lion,3C3,subject+art_style+resolution,Photorealism,In 8k resolution
+A lion in Conceptual Art style In 8k resolution,A lion,3C3,subject+art_style+resolution,Conceptual Art,In 8k resolution
+A lion in Islamic Art style In 8k resolution,A lion,3C3,subject+art_style+resolution,Islamic Art,In 8k resolution
+A lion in Art Nouveau style In 8k resolution,A lion,3C3,subject+art_style+resolution,Art Nouveau,In 8k resolution
+A magician in De Stijl style In 8k resolution,A magician,3C3,subject+art_style+resolution,De Stijl,In 8k resolution
+A magician in Expressionism style In 8k resolution,A magician,3C3,subject+art_style+resolution,Expressionism,In 8k resolution
+A magician in Baroque style In 8k resolution,A magician,3C3,subject+art_style+resolution,Baroque,In 8k resolution
+A magician in Futurism style In 8k resolution,A magician,3C3,subject+art_style+resolution,Futurism,In 8k resolution
+A magician in Photorealism style In 8k resolution,A magician,3C3,subject+art_style+resolution,Photorealism,In 8k resolution
+A magician in Conceptual Art style In 8k resolution,A magician,3C3,subject+art_style+resolution,Conceptual Art,In 8k resolution
+A magician in Islamic Art style In 8k resolution,A magician,3C3,subject+art_style+resolution,Islamic Art,In 8k resolution
+A magician in Art Nouveau style In 8k resolution,A magician,3C3,subject+art_style+resolution,Art Nouveau,In 8k resolution
+An alien in De Stijl style In 8k resolution,An alien,3C3,subject+art_style+resolution,De Stijl,In 8k resolution
+An alien in Expressionism style In 8k resolution,An alien,3C3,subject+art_style+resolution,Expressionism,In 8k resolution
+An alien in Baroque style In 8k resolution,An alien,3C3,subject+art_style+resolution,Baroque,In 8k resolution
+An alien in Futurism style In 8k resolution,An alien,3C3,subject+art_style+resolution,Futurism,In 8k resolution
+An alien in Photorealism style In 8k resolution,An alien,3C3,subject+art_style+resolution,Photorealism,In 8k resolution
+An alien in Conceptual Art style In 8k resolution,An alien,3C3,subject+art_style+resolution,Conceptual Art,In 8k resolution
+An alien in Islamic Art style In 8k resolution,An alien,3C3,subject+art_style+resolution,Islamic Art,In 8k resolution
+An alien in Art Nouveau style In 8k resolution,An alien,3C3,subject+art_style+resolution,Art Nouveau,In 8k resolution
